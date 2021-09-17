@@ -1,0 +1,56 @@
+﻿@model IEnumerable<PayspaceAssessment.Models.DbModel.TblTaxCalculation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Report</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.TaxCalculationId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateCreated)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.TaxCalculated)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AnnualIncome)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.CalculationType)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TaxCalculationId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateCreated)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TaxCalculated)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnnualIncome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CalculationType)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
