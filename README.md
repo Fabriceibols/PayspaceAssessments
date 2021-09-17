@@ -15,4 +15,4 @@
         - ProgressiveTaxCalculator a class to Calculate the Progressive Tax
     . The model folder has a class named CalculationResponse whih return all reponse after calculation
 6. The script containing the database table to be used is included and located under the main folder.
-7.The zip file contain the whole project
+7.The zip file contain the whole project just for back up.
