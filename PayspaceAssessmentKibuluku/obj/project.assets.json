@@ -6381,30 +6381,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
+      "projectUniqueName": "D:\\Assessment\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
       "projectName": "PayspaceAssessmentKibuluku",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\obj\\",
+      "projectPath": "D:\\Assessment\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "D:\\Assessment\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6462,6 +6456,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.18, 3.1.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
