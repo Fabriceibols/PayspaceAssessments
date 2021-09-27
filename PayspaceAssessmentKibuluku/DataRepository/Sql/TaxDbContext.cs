@@ -22,7 +22,7 @@ namespace PayspaceAssessment.Models.Sql
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=DESKTOP-CA2VFDP\SQLEXPRESS;Database=TaxCalculator;Trusted_Connection=True;MultipleActiveResultSets=true");
+                optionsBuilder.UseSqlServer(@"Server=hp-probook\SQLEXPRESS;Database=TaxCalculator;Trusted_Connection=True;MultipleActiveResultSets=true");
             }
         }
 

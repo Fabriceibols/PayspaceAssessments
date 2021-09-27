@@ -22,11 +22,11 @@ namespace AssessmentUnitTest
         [Test]
         public void TestFlatValueTaxRetuns10000()
         {
-            var annualIncome = 210000.0;
+            var annualIncome = 199999.0;
 
             var result = _taxCalculator.CalcualtionTax(annualIncome);
 
-            Assert.AreEqual(10000, result);
+            Assert.AreEqual(9999.95, result);
         }
 
         [Test]
