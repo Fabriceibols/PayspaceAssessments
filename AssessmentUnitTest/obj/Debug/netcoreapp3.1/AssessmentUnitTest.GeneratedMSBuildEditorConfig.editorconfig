@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = AssessmentUnitTest
+<<<<<<< HEAD
 build_property.ProjectDir = D:\gkk\PayspaceAssessments\AssessmentUnitTest\
+=======
+build_property.ProjectDir = D:\Assessment\PayspaceAssessments\AssessmentUnitTest\
+>>>>>>> c986203bcc179fc465045ae1e443eb008bdb9bfa

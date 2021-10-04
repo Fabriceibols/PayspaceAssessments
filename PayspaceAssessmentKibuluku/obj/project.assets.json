@@ -6386,11 +6386,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\gkk\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
       "projectName": "PayspaceAssessmentKibuluku",
       "projectPath": "D:\\gkk\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
       "outputPath": "D:\\gkk\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\obj\\",
+=======
+      "projectUniqueName": "D:\\Assessment\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
+      "projectName": "PayspaceAssessmentKibuluku",
+      "projectPath": "D:\\Assessment\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "D:\\Assessment\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\obj\\",
+>>>>>>> c986203bcc179fc465045ae1e443eb008bdb9bfa
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"

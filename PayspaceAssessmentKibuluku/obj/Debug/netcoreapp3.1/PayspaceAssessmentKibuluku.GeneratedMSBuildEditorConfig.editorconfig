@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = PayspaceAssessmentKibuluku
+<<<<<<< HEAD
 build_property.ProjectDir = D:\gkk\PayspaceAssessments\PayspaceAssessmentKibuluku\
+=======
+build_property.ProjectDir = D:\Assessment\PayspaceAssessments\PayspaceAssessmentKibuluku\
+>>>>>>> c986203bcc179fc465045ae1e443eb008bdb9bfa

@@ -7671,11 +7671,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\gkk\\PayspaceAssessments\\AssessmentUnitTest\\AssessmentUnitTest.csproj",
       "projectName": "AssessmentUnitTest",
       "projectPath": "D:\\gkk\\PayspaceAssessments\\AssessmentUnitTest\\AssessmentUnitTest.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
       "outputPath": "D:\\gkk\\PayspaceAssessments\\AssessmentUnitTest\\obj\\",
+=======
+      "projectUniqueName": "D:\\Assessment\\PayspaceAssessments\\AssessmentUnitTest\\AssessmentUnitTest.csproj",
+      "projectName": "AssessmentUnitTest",
+      "projectPath": "D:\\Assessment\\PayspaceAssessments\\AssessmentUnitTest\\AssessmentUnitTest.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "D:\\Assessment\\PayspaceAssessments\\AssessmentUnitTest\\obj\\",
+>>>>>>> c986203bcc179fc465045ae1e443eb008bdb9bfa
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7690,8 +7698,13 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+<<<<<<< HEAD
             "D:\\gkk\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj": {
               "projectPath": "D:\\gkk\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj"
+=======
+            "D:\\Assessment\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj": {
+              "projectPath": "D:\\Assessment\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj"
+>>>>>>> c986203bcc179fc465045ae1e443eb008bdb9bfa
             }
           }
         }

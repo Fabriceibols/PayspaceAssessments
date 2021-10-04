@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vC6vPsJCKoA1LzKgkqmkWIKzJFCXFbBK+tlJ4otB4XfPnFXjgZn3rgfS5cJenvy1XM3ZbsXP0JSnFPdod59qrQ==",
   "success": true,
   "projectFilePath": "D:\\gkk\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
+=======
+  "dgSpecHash": "OPF+95AQVfb2yljQHSlo/1RbPqr8pcue6qEafb36pXVX60PXxQRJfoRsYUoifXau+kshXgxWMuykQIPddjU9YA==",
+  "success": true,
+  "projectFilePath": "D:\\Assessment\\PayspaceAssessments\\PayspaceAssessmentKibuluku\\PayspaceAssessmentKibuluku.csproj",
+>>>>>>> c986203bcc179fc465045ae1e443eb008bdb9bfa
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.18\\microsoft.aspnetcore.jsonpatch.3.1.18.nupkg.sha512",
