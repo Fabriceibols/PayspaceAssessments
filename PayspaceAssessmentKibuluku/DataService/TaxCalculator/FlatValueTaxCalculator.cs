@@ -11,7 +11,7 @@ namespace PayspaceAssessment.Service.TaxCalculator
         {
             const double flatRate = 10000.0;
 
-            if (annualIncome < 171550)
+            if (annualIncome < 200000)
             {
                 return (annualIncome * 0.05);
             }
